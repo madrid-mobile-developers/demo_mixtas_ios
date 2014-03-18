@@ -12,7 +12,7 @@ Consta de un menú nativo con dos opciones:
 	En esta vista se ha incluido un componente MapKit nativo que muestra un mapa centrado programáticamente.
 
 El desarrollo de las vistas se ha realizado mediante Storyboards y consta de cuatro escenas:
-	* ContainerView con el menú
-	* TableView que muestra el menú
-	* UIWebview que muestra el login
-	* MKMapView que muestra el mapa
+* ContainerView con el menú
+* TableView que muestra el menú
+* UIWebview que muestra el login
+* MKMapView que muestra el mapa
